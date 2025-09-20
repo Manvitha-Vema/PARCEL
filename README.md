@@ -27,7 +27,7 @@ This is the **frontend-only implementation** of the PARCEL-Food Delivery Managem
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/PARCEl.git
+git clone https://github.com/Manvitha-Vema/PARCEl.git
 ```
 2. Navigate into the Project Folder
 ```
