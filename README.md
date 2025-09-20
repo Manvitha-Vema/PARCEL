@@ -1,8 +1,43 @@
-# React + Vite
+# 🍴 PARCEl - Food Delivery App (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**PARCEL** is a modern food delivery web application frontend built with **React.js**.  
+It provides users with a clean, responsive interface to browse restaurants, view menus, and place orders.  
+This is the **frontend-only implementation** of the Food Delivery Management System.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features (Frontend)
+-  Responsive UI for food delivery experience  
+-  Browse menus and food items  
+-  Add items to cart and manage selections  
+-  Search & filter functionality (categories, items, etc.)  
+-  Authentication-ready UI (login/register forms)  
+-  Modern, user-friendly design with React components  
+
+---
+
+## 🛠 Tech Stack
+- **React.js** → Frontend framework   
+- **Axios / Fetch** → API integration (backend-ready)  
+- **CSS** → Styling and responsiveness  
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/PARCEl.git
+```
+2. Navigate into the Project Folder
+```
+cd folder_name
+```
+3. Install Dependencies
+```
+npm install
+```
+4. Run the Development Server
+   ```
+   npm start
+
