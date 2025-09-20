@@ -2,7 +2,7 @@
 
 **PARCEL** is a modern food delivery web application frontend built with **React.js**.  
 It provides users with a clean, responsive interface to browse restaurants, view menus, and place orders.  
-This is the **frontend-only implementation** of the Food Delivery Management System.
+This is the **frontend-only implementation** of the PARCEL-Food Delivery Management System.
 
 ---
 
